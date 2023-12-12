@@ -4,7 +4,7 @@
  * * 영어점수를 삭제하세요.
  * * map에 저장된 모든 요소를 한번에 출력하세요.
  * */
-package Quiz;
+package map.Quiz;
 
 import java.util.HashMap;
 

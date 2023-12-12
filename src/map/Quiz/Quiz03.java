@@ -11,7 +11,7 @@
  * {80.0, 90.0, 100.0}
  * */
 
-package Quiz;
+package map.Quiz;
 
 import java.util.HashMap;
 import java.util.Iterator;

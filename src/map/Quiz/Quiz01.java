@@ -9,7 +9,7 @@
  *
  * */
 
-package Quiz;
+package map.Quiz;
 
 import java.util.HashMap;
 import java.util.Iterator;
